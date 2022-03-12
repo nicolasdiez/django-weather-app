@@ -1,7 +1,12 @@
-# Weather App to check forcast by Postal/ZIP code
+# App to check the weather forecast by Postal/ZIP code
 
-1. In CLI, to start Django web server:
+How to Run the App:
+
+1. Using CLI, go to the project path: 
 /c/djangoweather/weather
+
+2. Start Django web server with this command:
 $ python manage.py runserver
 
-Server will be running on: http://localhost:8000/
+3. Now the Django server is running on: 
+http://localhost:8000/
