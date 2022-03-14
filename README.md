@@ -4,7 +4,7 @@
 
 How to Run the Weather App server:
 
-1. Using CLI, go to the WeatherApp project path (where the manage.py is located): 
+1. Using CLI, go to the WeatherApp project path (where the manage.py is located): \n
 $ cd /c/djangoweather/weather
 
 2. Start Django web server with this command:
@@ -21,7 +21,7 @@ http://localhost:8000/
 
 How to setup the virtual environment for development:
 
-1. Create new project directory (this folder will hold 2 things: the virtual env AND the WeatherApp project itself)
+1. Create new project directory (this folder will hold 2 things: the virtual env AND the WeatherApp project itself):
 $ mkdir /c/djangoweather
 
 2. Move into the project directory
