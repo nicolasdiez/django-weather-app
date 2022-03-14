@@ -14,7 +14,6 @@ $ python manage.py runserver
 http://localhost:8000/
 
 ---------------------------------------------------------
----------------------------------------------------------
 
 #Additional info to setup the development environment:
 
