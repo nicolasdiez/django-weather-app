@@ -4,5 +4,19 @@
 {% block content %}
 
 <h1>Hello World!</h1>
+<br/>
+<!--- call the context variable 'api' -->
+
+{% if api %}        
+    {% if api == "Error..." %}
+        There was an error in the API request, please try again.
+    {% else %}
+        <br/> {{ api.0 }} <br/><br/>
+        Air Quality: {{ api.0.AQI }} <br/>
+        Area: {{ api.0.ReportingArea }} <br/>
+        Category: {{ api.0.Category.Name }} <br/>
+    {% endif %}
+{% endif %}
+ 
 
 {% endblock %}
