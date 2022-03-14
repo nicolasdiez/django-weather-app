@@ -13,12 +13,12 @@ $ python manage.py runserver
 3. Now the Django server is running on: 
 http://localhost:8000/
 
-
-
+---------------------------------------------------------
+---------------------------------------------------------
 
 #Additional info to setup the development environment
 
----------------------------------------------------------
+--
 
 How to setup the virtual environment for development:
 
