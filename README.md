@@ -53,7 +53,7 @@ How to create the new WeatherApp project itself (named 'weather'):
 1. Move into the project directory:
 $ cd /c/djangoweather
 
-2. Create the new project App: 
+2. Create the new project WeatherApp (named 'weather'): 
 $ django-admin startproject weather
 
 ---------------------------------------------------------
