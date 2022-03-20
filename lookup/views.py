@@ -1,3 +1,6 @@
+#Author: nicolas.diez.risueno@gmail.com
+#Project: Weather Lookup App (w/ Django)
+
 # Views.py file is the one which handles http requests and drives them to the corresponding html webpage
 from django.shortcuts import render
 

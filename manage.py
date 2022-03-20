@@ -1,3 +1,6 @@
+#Author: nicolas.diez.risueno@gmail.com
+#Project: Weather Lookup App (w/ Django)
+
 #!/usr/bin/env python
 """Django's command-line utility for administrative tasks."""
 import os

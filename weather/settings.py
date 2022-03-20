@@ -1,3 +1,6 @@
+#Author: nicolas.diez.risueno@gmail.com
+#Project: Weather Lookup App (w/ Django)
+
 """
 Django settings for weather project.
 
