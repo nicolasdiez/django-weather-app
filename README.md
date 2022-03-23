@@ -44,7 +44,7 @@ How to install Django:
 $ cd /c/djangoweather
 
 2. Install Django:
-$ pip install djangoweather
+$ pip install django
 
 ---------------------------------------------------------
 
@@ -58,3 +58,9 @@ $ django-admin startproject weather
 
 ---------------------------------------------------------
 
+The directory organization would be as follows:
+
+1. /c/djangoweather/venv
+2. /c/djangoweather/weather
+3. /c/djangoweather/weather/weather
+4. /c/djangoweather/weather/lookup

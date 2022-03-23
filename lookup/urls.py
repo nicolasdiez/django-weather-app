@@ -1,5 +1,5 @@
-#Author: nicolas.diez.risueno@gmail.com
-#Project: Weather Lookup App (w/ Django)
+# Author: nicolas.diez.risueno@gmail.com
+# Project: Weather Lookup App (w/ Django)
 
 from django.urls import path
 from . import views
