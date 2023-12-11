@@ -1,6 +1,5 @@
 # App to check the weather forecast by Postal/ZIP code
 
-Author: nicolas.diez.risueno@gmail.com
 ---------------------------------------------------------
 
 How to Run the Weather App server:
